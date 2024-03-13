@@ -36,7 +36,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![intellij idea](https://img.shields.io/badge/-intellijIdea-05122A?style=flat&logo=intellijIdea)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![SQL](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sql)&nbsp;
+![SQL](https://img.shields.io/badge/-SQLServer-05122A?style=flat&logo=SQLServer)&nbsp;
 
 <br><br>
 
