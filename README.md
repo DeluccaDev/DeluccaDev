@@ -43,7 +43,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=lucas&show_icons=true&theme=vision-friendly-dark" alt="LucasEvan's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=DeLuccaDev&show_icons=true&theme=vision-friendly-dark" alt="LucasEvan's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeLuccaDev&layout=compact&theme=vision-friendly-dark" alt="LucasEvan's most languages"/>
   
 </p>
